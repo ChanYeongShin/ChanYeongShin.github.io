@@ -48,14 +48,56 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  test
+  Hello, I'm Chan Yong Shin, working as a CTO for a startup called Mondeique. I like to develop quietly in a place where no one is around at dawn, 
+  but I enjoy communicating with people at the same time. MBTI goes back and forth between ENFJ and ENFP. 
+  
+  We are confident that future online shopping will be done through virtual fitting developed by our company.
+  
+  I am a full-stack AI developer who can develop Frontend IOS using Swift from backend server development.
+  
+  
+  I am skilled at <mark>Python</mark> <mark>Tensorflow</mark> <mark>Pytorch</mark> <mark>Keras</mark> <mark>OpenCV</mark> <mark>Django</mark> <mark>Swift</mark> 
+  <mark>MATLAB</mark> <mark>Docker</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Hangul-OCR by using attention/CTC loss
+        link: Private code because of security
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin github link
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Mathpresso Hangul OCR Project for replacing GoogleOCR API.
+        description: | # this will include new lines to allow paragraphs 
+          - asd
+          - asd
+      - layout: top-middle
+        title: Computational Photography Project
+        link: github.com/ChanYeongShin/IIT6028
+        # link_text: Project Website
+        additional_links:
+          - title:  CP Project
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/IIT6028
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          School of Integrated Technology IIT6028 CP Project 
+        description: | # this will include new lines to allow paragraphs
+          - asd
+          - asd
+          - asd
+      - layout: top-middle
+        title: Handbag Object Detection for monde
         link: github.com/ChanYeongShin
         # link_text: Project Website
         additional_links:
@@ -66,40 +108,223 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          test
         description: | # this will include new lines to allow paragraphs
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          test
+      - layout: top-middle
+        title: Handbag Category Classification for "monde"
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: Handbag dataset management & staff server
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: Handbag Color Extraction - colorgram.py
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: PEPUP IOS develop
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: Mondeique Web-Crawling Server Develop
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: Chat Server develop and deplot for SIIOT
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: Main Server develop and deploy for SIIOT
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: ACGPN implementation in 2D VITON
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: human-parser for ACGPN
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+      - layout: top-middle
+        title: 3D human modeling by using PIFu
+        link: github.com/ChanYeongShin
+        # link_text: Project Website
+        additional_links:
+          - title:  ChanYeongShin/ChanYeongShin.github.io
+            icon: fab fa-github
+            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          test
+        description: | # this will include new lines to allow paragraphs
+          test
+     
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Mondeique
-        link: mondeique.com
+        link: github.com/mondeique
         # link_text: mondeique.com
-        sub_title: chief technical officer(CTO) 
+        sub_title: Chief Technical Officer (CTO) 
         caption: July 2019 - Present
         quote: >
-          test
+          3D human modeling + Clothes Generator Developer
         description: | # this will include new lines to allow paragraphs
-          test
+          I'm currently working as a CTO for style tech startup 'Mondeique'. 'Mondeique' has vision to implement fitting rooms in mobile with extreme technology. 
+          
+          We received angel seed investment in July 2020 and I enjoy working with our company's talented people.
+          
+      - layout: left
+        title: Mathpresso R&D 
+        link: mathpresso.com
+        # link_text: mondeique.com
+        sub_title: OCR intern
+        caption: January 2019 - May 2019
+        quote: >
+          Hangul OCR intern  
+        description: | # this will include new lines to allow paragraphs
+          I worked as an intern in Korean OCR at Mathpresso, a startup that created an application called "QandA," an educational platform that has become the world's No. 1 with huge 
+          investment.
+          
+          In fact, the company proceeded from the beginning to the end of the process from preprocessing data to using it for learning. 
+          It wasn't enough to replace Google API, but I've experienced the same performance.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Yonsei University
+        title: M.S Yonsei University
+        caption: 2018 - Present
+        sub_title: School of Integrated Technology 
+        quote: >
+          Computer Vision & Machine Learning LAB
+        description: | # this will include new lines to allow paragraphs
+          I am conducting research in the lab of Professor "Hyunjung Shim" at Yonsei University CVML Lab. 
+          
+          Currently, we are conducting a study on the 3D Clothes generator, including the size that can replace the Simulator, and we are reading the corresponding paper.
+      - layout: left
+        title: B.S Yonsei University
         caption: 2015 - 2017
         sub_title: School of Integrated Technology 
         quote: >
-          test
+          5th, I graduated early at the age of 21.
         description: | # this will include new lines to allow paragraphs
-          test
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      test
-      ![Trees](/images/landscape-trees.jpg "Trees")
+          I graduated from Yonsei University's IT convergence engineering department and took courses in various subjects that I learn in engineering college. 
+          I learned about various fields such as semiconductor process technology, communication, computer engineering, and signal processing. 
+          
+          As a graduation thesis, we conducted a study to find tumors in CT images using AI.
+      - layout: left
+        title: Incheon Science High School
+        caption: 2013 - 2014
+        sub_title: 20th
+        quote: >
+          I graduated early at the age of 18.
+        description: | # this will include new lines to allow paragraphs
+          I graduated from the 20th Incheon Science High School. My major was chemistry, and at that time, I wanted to go to a pharmacy.
 
 # Footer
 footer_show_references: true
