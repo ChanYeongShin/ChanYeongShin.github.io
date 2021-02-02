@@ -48,13 +48,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Chan Yong Shin, working as a CTO for a startup called Mondeique. I like to develop quietly in a place where no one is around at dawn, 
+  Hello, I'm Chan Yeong Shin, working as a CTO for a startup called Mondeique. I like to develop quietly in a place where no one is around at dawn, 
   but I enjoy communicating with people at the same time. 
+  
   MBTI goes back and forth between ENFJ and ENFP. 
   
   We are confident that future online shopping will be done through virtual fitting developed by our company.
   
-  I am a full-stack AI developer who can develop Frontend IOS using Swift from backend server development.
+  I am a full-stack AI developer who can develop Frontend IOS using Swift from backend server development using Django.
+  
   
   
   I am skilled at <mark>Python</mark> <mark>Tensorflow</mark> <mark>Pytorch</mark> <mark>Keras</mark> <mark>OpenCV</mark> <mark>Django</mark> <mark>Swift</mark> 
@@ -243,8 +245,10 @@ content:
         quote: >
           Mathpresso Hangul OCR Project for replacing GoogleOCR API.
         description: | # this will include new lines to allow paragraphs 
-          - asd
-          - asd
+          At that time, Mespresso used its own OCR technology for formulas, but still used Google API for Hangeul. The use of the API had to involve cost and needed technology to
+          replace it. I took charge of the project alone and proceeded everything from project milestone design to coding and experiment. Baseline was used as a CRNN paper and tried to
+          increase performance by inserting attention in addition to cc loss. Better performance than Google API allowed us to change and apply the module, but the performance was the
+          same.
       - layout: top-middle
         title: Computational Photography Project
         link: github.com/ChanYeongShin/IIT6028
@@ -257,9 +261,15 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          Professor Shimhyun Jung, Graduate School of Integrated Technology at Yonsei University, CP Class Project
         description: | # this will include new lines to allow paragraphs
-          test
+          I worked on a project in the CP class in the second semester of 2018. Computer Vision directly implements basic algorithms such as image-based technology and image-based
+          technology as MATLAB. In the image base, we implemented not only filtering such as demosaicing and white balancing, but also synthetic technologies such as blending, and we
+          also implemented focus-related parts from image photographs. In the video, we proceeded Laplacian Pyramid and Filtering.
+        
+          
+          
+
      
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
