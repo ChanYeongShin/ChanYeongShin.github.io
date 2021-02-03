@@ -78,9 +78,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          Single-View to Multi-View code develop for our vision
         description: | # this will include new lines to allow paragraphs
-          test
+          Multi-view development of PIFu model, which generates 3D object files with only a few images, was proceeded. 
+          In the case of pre-trained checkpoints of the model, we learned about single-view with 500 pictures of RenderPeople, 
+          so we purchased 100 additional pictures to conduct multi-view training and fine-tuning. In the process, we had to modify the same code as DataLoader, 
+          so we changed the code according to our task sequentially from the code review.
       - layout: top-middle
         title: Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content (ACGPN)
         link: mondeique.github.io
@@ -93,9 +96,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          2D VITON 2020 CVPR ACGPN implementation + Experiment 
         description: | # this will include new lines to allow paragraphs
-          test
+          ACGPN model in 2D VITON field focused on synthesizing human images and clothes exactly when they entered input (maybe focused on synthesizing them well in various poses)
+          , but we wanted to see variations according to different sizes, so it was necessary to modify them. 
+          So we proceeded with the code review and modified the model to conduct the experiment we wanted.
       - layout: top-middle
         title: human-parser for generating segmentation map 
         link: mondeique.github.io
@@ -108,9 +113,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          ACGPN input segmentation map generation pre-processing 
         description: | # this will include new lines to allow paragraphs
-          test
+          The ACGPN model receives segmentation map as input data, but the actual test data does not exist. 
+          Therefore, we had to go through the pre-processing process of pulling out the map separately and have to match the label map of ACGPN. 
+          In addition, we wanted to increase the performance by adding labels for the neck part.
       - layout: top-middle
         title: Main Backend Server for app "SIIOT"
         link: mondeique.github.io
@@ -123,11 +130,14 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          Main Backend Server pair programming with "Victor"
         description: | # this will include new lines to allow paragraphs
-          test
+          Previously, the main server of all apps was developed exclusively by Victor, our server developer. However, as Victor's work increased, 
+          I decided to develop the main server together, as I was developing only supporting servers. 
+          From the creation of the API Guide, we developed all the APIs as a pair programming and tried to organize them into documents for other front-end developers 
+          to understand easily.
       - layout: top-middle
-        title: Django-Channels Chat Server develop & deploy for app "SIIOT"
+        title: Chat Server develop & deploy for app "SIIOT"
         link: mondeique.github.io
         # link_text: Project Website
         additional_links:
@@ -138,9 +148,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          By using Django-Channels, chat-server deploy seperately
         description: | # this will include new lines to allow paragraphs
-          test
+          In the case of SIIOT application, unlike other applications, the chat function was added, so the chat server using Django-channel had to be developed separately. 
+          Using uwsgi + nginx + supervisor + Docker, we proceeded alone from development to deployment.
       - layout: top-middle
         title: MONDE-BENGAL - Web Crawling Server develop & deploy for app "SIIOT"
         link: mondeique.github.io
@@ -153,9 +164,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          It is developed more and more from app "monde" to "SIIOT"
         description: | # this will include new lines to allow paragraphs
-          test
+          All the services we wanted to show were based on web crawling. In the case of the "monde" app, it had to be crawled to build a bag dataset, and in order to show these
+           Dongdaemun-based products to SIIOT, the server related to web crawling had to be developed unconditionally. 
+          I developed a scalable server for effectively building dataset based on BeautifulSoup by myself. In addition, we also distributed using Docker to make the crawling 
+          API run in real time.
       - layout: top-middle
         title: IOS develop using SWIFT for app "PEPUP"
         link: mondeique.github.io
@@ -168,9 +182,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          PEPUP IOS project + dev log 
         description: | # this will include new lines to allow paragraphs
-          test
+          I studied Swift language and developed the application myself to make PEPUP app. Although IOS was not able to release it because it took a long time to get permission from
+           AppStore due to the nature of the app's launch, it needed a lot of customized functions because it had to make shopping malls and Instagram-type apps. 
+          It was the first real application I tried and I tried to increase the usability through QA.
       - layout: top-middle
         title: Color Extraction by using colorgram for app "monde"
         link: mondeique.github.io
