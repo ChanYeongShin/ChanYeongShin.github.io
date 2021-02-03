@@ -68,12 +68,12 @@ content:
     content:
       - layout: top-middle
         title: Muli-View 3D avatar generate with PIFu
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -83,12 +83,12 @@ content:
           test
       - layout: top-middle
         title: Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content (ACGPN)
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -98,12 +98,12 @@ content:
           test
       - layout: top-middle
         title: human-parser for generating segmentation map 
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -113,12 +113,12 @@ content:
           test
       - layout: top-middle
         title: Main Backend Server for app "SIIOT"
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -128,12 +128,12 @@ content:
           test
       - layout: top-middle
         title: Django-Channels Chat Server develop & deploy for app "SIIOT"
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -143,12 +143,12 @@ content:
           test
       - layout: top-middle
         title: MONDE-BENGAL - Web Crawling Server develop & deploy for app "SIIOT"
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -158,12 +158,12 @@ content:
           test
       - layout: top-middle
         title: IOS develop using SWIFT for app "PEPUP"
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -173,64 +173,70 @@ content:
           test
       - layout: top-middle
         title: Color Extraction by using colorgram for app "monde"
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          color extraction by using colorgram.py 
         description: | # this will include new lines to allow paragraphs
-          test
+          In the "monde" app, you have to image the bag you want to find, so when the handbag image comes in, you have to figure out what color the bag is made of. 
+          So I used an open source called colorgram to calculate the ratio of rgb and map it to the color we decided to match the color of our database.
       - layout: top-middle
         title: MONDE-PERSIAN - Data Management & Staff Server for app "monde"
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          handbag dataset generation easily by using Django
         description: | # this will include new lines to allow paragraphs
-          test
+          The "monde" AI project required a handbag bounding data set and a category labelling dataset. To create a dataset more easily, we developed server using django. 
+          After going through the Django study, I made it alone from the bottom to API generation by referring to various references. 
+          As a result, we were able to create datasets more easily and reduced the time we could learn.
       - layout: top-middle
-        title: Multi-Label Image Classification at Handbag for app "monde"
-        link: github.com/ChanYeongShin
+        title: Multi-Task Learning Image Classification at Handbag for app "monde"
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          multi task learning (MTL) category classification using Tensorflow
         description: | # this will include new lines to allow paragraphs
-          test
+          In order to classify various categories of bags, we initially approached multi-label image classification, but we changed multi-task learning because we thought it was more suitable
+          for the task. When the bag image of different shapes came in, we proceeded MTL for shape and checked the result.
       - layout: top-middle
         title: Object Detection at Handbag for app "monde"
-        link: github.com/ChanYeongShin
+        link: mondeique.github.io
         # link_text: Project Website
         additional_links:
-          - title:  ChanYeongShin/ChanYeongShin.github.io
+          - title:  mondeique tech blog
             icon: fab fa-github
-            url: github.com/ChanYeongShin/ChanYeongShin.github.io
+            url: mondeique.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          test
+          Object-Detection API using MSCOCO dataset from Tensorflow & customized object-detection
         description: | # this will include new lines to allow paragraphs
-          test
+          In order to perform the "object detection" part in Monde, a women's bag search service through category imaging, a technology to find bags from pictures was needed.
+          Accordingly, the performance of various object detection models was evaluated using the Object Detection API using MSCOCO Dataset and fine-tuning was carried out on the
+          handbag Dataset built on its own.
       - layout: top-middle
         title: Hangul-OCR by using attention/CTC loss
         link: Private code because of security
@@ -333,7 +339,8 @@ content:
         quote: >
           I graduated early at the age of 18.
         description: | # this will include new lines to allow paragraphs
-          I graduated from the 20th Incheon Science High School. My major was chemistry, and at that time, I wanted to go to a pharmacy.
+          I graduated from the 20th Incheon Science High School. My major was chemistry, and at that time, I wanted to go to pharmacy college. I went to school happily, joyfully, and
+          stimulated by living with smart friends at Incheon Science High School, and graduated early in 2014.
 
 # Footer
 footer_show_references: true
