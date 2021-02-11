@@ -67,6 +67,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: style-guided unpaired img2img translation (on progress)
+        link: mondeique.github.io
+        # link_text: Project Website
+        additional_links:
+          - title:  mondeique tech blog
+            icon: fab fa-github
+            url: mondeique.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          clothes color change using img2img translation 
+        description: | # this will include new lines to allow paragraphs
+          Unpaired image to image translation was performed on the 2D image domain. The main purpose is to change the picture of the model wearing A to the picture 
+          wearing B given the same clothes in A and B colors. I referred to InstaGAN and FUNIT paper to perform the task.
+      - layout: top-middle
         title: Muli-View 3D avatar generate with PIFu
         link: mondeique.github.io
         # link_text: Project Website
