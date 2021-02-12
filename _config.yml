@@ -254,12 +254,12 @@ content:
           for the task. When the bag image of different shapes came in, we proceeded MTL for shape and checked the result.
       - layout: top-middle
         title: Object Detection at Handbag for app "monde"
-        link: mondeique.github.io
+        link: https://mondeique.github.io/2019-11-07/object-detection
         # link_text: Project Website
         additional_links:
           - title:  mondeique tech blog
             icon: fab fa-github
-            url: mondeique.github.io
+            url: https://mondeique.github.io/2019-11-07/object-detection
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
