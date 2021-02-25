@@ -48,16 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Chan Yeong Shin, working as a CTO for a startup called Mondeique. I like to develop quietly in a place where no one is around at dawn, 
-  but I enjoy communicating with people at the same time. 
-  
-  MBTI goes back and forth between ENFJ and ENFP. 
-  
-  We are confident that future online shopping will be done through virtual fitting developed by our company.
+  Hello, I'm Chan Yeong Shin, working as a CTO for a startup called Mondeique. Additionally, I am M.S Candidate for School of Integrated Technology in Yonsei Univ and 
+  member of [CVML Lab](https://cvml.yonsei.ac.kr). My advisor is [Hyunjung Shim](https://sites.google.com/site/katehyunjungshim/).
+
+  I like to develop quietly in a place where no one is around at dawn, but I enjoy communicating with people at the same time. 
   
   I am a full-stack AI developer who can develop Frontend IOS using Swift from backend server development using Django.
-  
-  
   
   I am skilled at <mark>Python</mark> <mark>Tensorflow</mark> <mark>Pytorch</mark> <mark>Keras</mark> <mark>OpenCV</mark> <mark>Django</mark> <mark>Swift</mark> 
   <mark>MATLAB</mark> <mark>Docker</mark>
@@ -81,7 +77,7 @@ content:
           clothes color change using img2img translation 
         description: | # this will include new lines to allow paragraphs
           Unpaired image to image translation was performed on the 2D image domain. The main purpose is to change the picture of the model wearing A to the picture 
-          wearing B given the same clothes in A and B colors. I referred to InstaGAN and FUNIT paper to perform the task.
+          wearing B given the same clothes in A and B colors. 
       - layout: top-middle
         title: Muli-View 3D avatar generate with PIFu
         link: mondeique.github.io
