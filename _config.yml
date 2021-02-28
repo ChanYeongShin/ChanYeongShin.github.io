@@ -317,7 +317,7 @@ content:
         quote: >
           3D multi-view human modeling + Clothes Generator Developer
         description: | # this will include new lines to allow paragraphs
-          I'm currently working as a CTO for style tech startup 'Mondeique'. 'Mondeique' has vision to implement fitting rooms in mobile with extreme technology. 
+          I'm currently working as a CTO for style tech startup 'Mondeique'. 
           
           We received angel seed investment in July 2020 and I enjoy working with our company's talented people.
           
@@ -348,7 +348,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am conducting research in the lab of Professor "Hyunjung Shim" at Yonsei University CVML Lab. 
           
-          Currently, we are conducting a study on the 3D Clothes generator, including the size that can replace the Simulator, and we are reading the corresponding paper.
       - layout: left
         title: B.S Yonsei University
         caption: 2015 - 2017
